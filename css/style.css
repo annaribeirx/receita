@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: wheat;
+}
+
+main{
+    width: 60%;
+    margin: 40px auto;
+    background-color: white;
+    border-radius: 15px;
+    padding: 50px;
+    text-align: left;
+}
+
+img{
+    width: 100%;
+    margin: 5px;
+}
+
+p{
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.container-preparo{
+    height: 180px;
+    margin-top: 20px;
+    background-color: rgb(245, 229, 200);
+    padding: 25px;
+    border-radius: 15px;
+}
+
+ul, ol{
+    margin: 20px;
+}
+li{
+    margin: 10px;
+    font-size: 17px;
+}
+
+span{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.container-ingredientes{
+    margin-top: 20px;
+    border-bottom: 1px black solid;
+}
+
+h2{
+    color:rgb(99, 23, 23);
+    font-size: 30px;
+}
+
+.container-instrucoes{
+    margin-top: 20px;
+    border-bottom: 1px black solid;
+}
